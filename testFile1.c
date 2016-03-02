@@ -6,6 +6,7 @@ int main ( int argc, char *argv[] )
 	
 	for (; ; )
 	{
+		/* loop forever */
 	}
 	
 	return 0;
