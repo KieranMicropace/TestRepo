@@ -1,4 +1,10 @@
 
+enum
+{
+	HELLO,
+	GOODBYE
+}
+
 typedef struct
 {
 } BasicType_t;	
